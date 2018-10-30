@@ -9,4 +9,3 @@ LICENSE.txt
 .idea/
 composer.json
 composer.lock
-/application/database.php
